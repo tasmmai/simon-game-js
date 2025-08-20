@@ -1,6 +1,7 @@
 # Simon Memory Game
 
-![Simon Game Screenshot](<img width="2554" height="1378" alt="Screenshot 2025-08-20 122135" src="https://github.com/user-attachments/assets/935f14a5-333b-4743-b63d-396a9d1c8a09" />) 
+<img width="2554" height="1378" alt="Screenshot 2025-08-20 122135" src="https://github.com/user-attachments/assets/9dedf727-72e3-4cd8-a450-85f0f1e5ab5b" />
+
 A classic web-based implementation of the electronic memory game "Simon." This project was built to showcase core front-end development skills, including DOM manipulation, event handling, and game logic using JavaScript and jQuery.
 
 ---
